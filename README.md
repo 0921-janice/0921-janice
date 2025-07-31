@@ -1,4 +1,4 @@
-# Janice Kennedy | Computer Science Student @ Texas Tech 🤖 | Aspiring Data Scientist
+# Janice Kennedy | Computer Science Student @ Texas Tech University | Aspiring Data Scientist
 
 Aspiring Data Scientist with a passion for **AI, data science and Machine Learning**. I enjoy building innovative projects that make a real-world impact. I'm also passionate about **community building** and currently serve as **Vice President of ACM** at Texas Tech. 🚀
 
@@ -30,10 +30,9 @@ MySQL
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Worm Classifier](#) | CNN-based image classifier to identify parasitic worms | PyTorch, OpenCV |
-| [Prior Authorization Graph AI](#) | Graph-based AI pipeline using Neo4j + LLMs to analyze patient eligibility | Neo4j, LangChain, Python |
-| [Inventory Tracker App](#) | Full-stack web app for managing product inventory for a small business | React, Express, MongoDB |
-| [Scrabble Score Game](#) | C program that calculates word scores and determines the winner | C |
+| [Worm Classifier](https://github.com/0921-janice/c.elegans-worm-classifier) | CNN-based image classifier to identify parasitic worms | PyTorch, OpenCV |
+| [Predicting Income from Census Data](https://github.com/0921-janice/BreakThroughTechAI-Portfolio) | End-to-end ML project predicting if someone earns >$50K using U.S. Census data | Python |
+| [Snake Game](https://github.com/0921-janice/Snake-Game) | Classic snake game implemented for the web using JavaScript and HTML canvas | Javascript, HTML, CSS |
 
 ---
 
