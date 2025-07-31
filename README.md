@@ -1,42 +1,47 @@
-## Hi there 👋
+# Janice Kennedy | Computer Science Student @ Texas Tech 🤖 | Aspiring Data Scientist
 
-
-# 💻 Hi, I'm Janice Kennedy!
-
-🎓 Computer Science Major @ Texas Tech University (Minor: Mathematics)  
-🔬 Passionate about AI, Machine Learning and Data Science
+Aspiring Data Scientist with a passion for **AI, data science and Machine Learning**. I enjoy building innovative projects that make a real-world impact. I'm also passionate about **community building** and currently serve as **Vice President of ACM** at Texas Tech. 🚀
 
 ---
 
-## 🚀 About Me
-- 🧠 Machine Learning & Data Science Enthusiast  
-- 🦾 Interested in AI for healthcare  
-- 💬 Vice President of ACM (Association of Comuting Machinary) @Texas Tech University 
+## 🧠 About Me
 
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)  
-
-**Frameworks / Tools**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
-![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?logo=neo4j&logoColor=white&style=flat)  
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)  
+🎓 **Undergraduate** in Computer Science | Minor in Mathematics  
+🏫 **Texas Tech University** | Class of **2027**  
+🌍 **Interests** ML, Data Science, AI  
+📚 **Currently** learning: AWS
 
 ---
 
-## 🤝 Connect with Me
+## 💻 Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/janice--kennedy)  
+**Languages:**  
+Python • SQL • JavaScript • C • HTML • CSS
+
+**Frameworks / Tools:**  
+React • Sreamlit • Neo4j • Tailwind CSS
+
+**Databases:**  
+MySQL
 
 ---
 
-_“The best way to predict the future is to invent it.” – Alan Kay_
+## 🚀 Featured Projects
 
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Worm Classifier](#) | CNN-based image classifier to identify parasitic worms | PyTorch, OpenCV |
+| [Prior Authorization Graph AI](#) | Graph-based AI pipeline using Neo4j + LLMs to analyze patient eligibility | Neo4j, LangChain, Python |
+| [Inventory Tracker App](#) | Full-stack web app for managing product inventory for a small business | React, Express, MongoDB |
+| [Scrabble Score Game](#) | C program that calculates word scores and determines the winner | C |
 
+---
+
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+📫 Email: jk4janice@gmail.com
+
+---
+
+_“Strive not to be a success, but rather to be of value.” – Albert Einstein_
